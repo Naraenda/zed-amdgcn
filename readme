@@ -1,0 +1,3 @@
+zed language support for amdgcn (amdgpu asm) by wrapping around
+https://github.com/Flakebi/tree-sitter-amdgpu-asm. 'highlights.scm'
+is taken from that repo, hence we use the same license.

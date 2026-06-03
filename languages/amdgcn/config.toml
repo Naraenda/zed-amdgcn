@@ -1,0 +1,4 @@
+name = "AMDGCN"
+grammar = "amdgpu_asm"
+path_suffixes = [".s"]
+line_comments = [";"]

@@ -1,0 +1,11 @@
+id = "amdgcn"
+name = "AMDGCN"
+version = "0.0.1"
+schema_version = 1
+authors = [""]
+description = "AMDGCN Language support (https://github.com/Flakebi/tree-sitter-amdgpu-asm)"
+repository = ""
+
+[grammars.amdgpu_asm]
+repository = "https://github.com/Flakebi/tree-sitter-amdgpu-asm"
+rev = "76de6219e139a023dcdb711c9fbaf57cc3a7e847"
